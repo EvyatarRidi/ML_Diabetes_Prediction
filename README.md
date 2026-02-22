@@ -30,7 +30,7 @@ Includes preprocessing with pipelines, model comparison, hyperparameter tuning, 
 
 > **Note:** The dataset is imbalanced, so recall/F1 for the positive class is an important metric beyond accuracy.
 
-![Confusion Matrix](docs/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Tech Stack
 - Python
