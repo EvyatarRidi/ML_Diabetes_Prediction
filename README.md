@@ -39,3 +39,8 @@ Best model: **Decision Tree** (`max_depth=3`, `min_samples_split=2`)
    ```bash
    git clone https://github.com/EvyatarRidi/ML_Diabetes_Prediction.git
    cd ML_Diabetes_Prediction
+
+   python -m venv .venv
+source .venv/bin/activate   # macOS/Linux
+pip install -r requirements.txt
+jupyter notebook ML_Diabetes_Prediction.ipynb
