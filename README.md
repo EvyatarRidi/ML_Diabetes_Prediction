@@ -37,12 +37,12 @@ Best model: **Decision Tree** (`max_depth=3`, `min_samples_split=2`)
 
 ## How to Run
 
-### 1) Clone
+1) Clone
 ```bash
 git clone https://github.com/EvyatarRidi/ML_Diabetes_Prediction.git
 cd ML_Diabetes_Prediction
 
-### 2) Create venv + install dependencies
+2) Create venv + install dependencies
 python -m venv .venv
 
 # macOS/Linux:
@@ -53,6 +53,6 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
-###3) Run the notebook
+3) Run the notebook
 jupyter notebook ML_Diabetes_Prediction.ipynb
 
